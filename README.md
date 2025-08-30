@@ -56,7 +56,7 @@
 </head>
 <body>
   <header>
-    <h1>Curso Online de [GANHE R$200 HJ MESMO]</h1>
+    <h1>[GANHE R$200 HJ MESMO]</h1>
     <p>Aprenda de forma prática e direta</p>
   </header>
 

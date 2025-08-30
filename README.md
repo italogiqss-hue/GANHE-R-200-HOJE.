@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Meu Curso Online</title>
+  <title>GANHE R$200 AGORA</title>
   <style>
     body { font-family: Arial, sans-serif; text-align: center; padding: 40px; }
     .btn { background: #28a745; color: white; padding: 15px 25px; text-decoration: none; border-radius: 8px; }
